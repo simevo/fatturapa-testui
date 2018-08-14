@@ -16,5 +16,8 @@ all:
 	cp node_modules/bootstrap-italia/dist/css/italia-icon-font.css www/css/.
 
 	./bin/build.php index "FatturaPA testUI" > www/index.html
+<<<<<<< HEAD
 
 	./bin/build.php index "FatturaPA testUI | Simevo" > www/simevo.html
+=======
+>>>>>>> 33e7e33ef1d2fa82a2b3162ae6abcd4ad12924bb
