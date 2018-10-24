@@ -1,3 +1,7 @@
+# This repo is abandoned !
+
+The project has been merged into **fatturapa-testsdi**, please check the `rpc/packages/fatturapa/ui` dir in [fatturapa-testsdi](https://github.com/italia/fatturapa-testsdi).
+
 # fatturapa-testui
 
 This repository contains a User Interface to connect to a test environment for the Exchange System (ES, Italian: SDI) for Electronic Invoices, and manually run a simulation of the complete process of invoice issue, transmission and receipt.
